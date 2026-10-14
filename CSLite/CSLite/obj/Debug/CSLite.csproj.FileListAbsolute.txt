@@ -1,0 +1,7 @@
+G:\data\unity\CSLite\CSLite\bin\Debug\CSLite.exe.config
+G:\data\unity\CSLite\CSLite\bin\Debug\CSLite.exe
+G:\data\unity\CSLite\CSLite\bin\Debug\CSLite.pdb
+G:\data\unity\CSLite\CSLite\obj\Debug\CSLite.csproj.AssemblyReference.cache
+G:\data\unity\CSLite\CSLite\obj\Debug\CSLite.csproj.CoreCompileInputs.cache
+G:\data\unity\CSLite\CSLite\obj\Debug\CSLite.exe
+G:\data\unity\CSLite\CSLite\obj\Debug\CSLite.pdb
