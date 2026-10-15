@@ -27,6 +27,13 @@ namespace CSLite
             //Convertation.RunMyCode();
 
             // 44:30
+            //WorkConsole.RunMyCode();
+
+            // 52:29
+            //IncrementDecrement.RunMyCode();
+
+            // 57:10
+            DamageCalculation.RunMyCode();
         }
     }
 }

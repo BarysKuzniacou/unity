@@ -9,7 +9,7 @@ namespace CSLite
     internal class HelloWorld
     {
         public static void RunMyCode()
-        { 
+        {
             // Ввод данных
             Console.WriteLine("Hello, World!");
             Console.ReadKey();

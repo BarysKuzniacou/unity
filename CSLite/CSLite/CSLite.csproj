@@ -43,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Convertation.cs" />
-    <Compile Include="HelloWorld.cs" />
-    <Compile Include="LogicOperations.cs" />
+    <Compile Include="08.IncrementDecrement.cs" />
+    <Compile Include="07.WorkConsole.cs" />
+    <Compile Include="04.Convertation.cs" />
+    <Compile Include="01.HelloWorld.cs" />
+    <Compile Include="03.LogicOperations.cs" />
+    <Compile Include="09.DamageCalculation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StringConcatenation.cs" />
-    <Compile Include="VariablesData.cs" />
-    <Compile Include="Сoncatenation.cs" />
+    <Compile Include="05.StringConcatenation.cs" />
+    <Compile Include="02.VariablesData.cs" />
+    <Compile Include="06.Сoncatenation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

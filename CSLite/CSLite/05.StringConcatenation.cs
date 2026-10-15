@@ -13,6 +13,7 @@ namespace CSLite
             int age = 27;
             string name = "Bob";
 
+            // пример интерполяции
             Console.WriteLine("Ваше имя: " + name + " вам " + age + " лет"); // cw + tab
             Console.WriteLine($"Ваше имя: {name} вам {age} лет"); // ctrl + d
         }

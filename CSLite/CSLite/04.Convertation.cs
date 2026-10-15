@@ -25,7 +25,7 @@ namespace CSLite
             Console.WriteLine(result);
 
             //Convert.ToInt16 short
-            //Convert.ToInt16 int
+            //Convert.ToInt32 int
             //Convert.ToInt64 long
             //Convert.ToSByte sbyte
             //Convert.ToSingle float
