@@ -49,6 +49,10 @@
     <Compile Include="01.HelloWorld.cs" />
     <Compile Include="03.LogicOperations.cs" />
     <Compile Include="09.DamageCalculation.cs" />
+    <Compile Include="10.FoodShop.cs" />
+    <Compile Include="11.OperatorIf.cs" />
+    <Compile Include="12.OpeartorAndOR.cs" />
+    <Compile Include="13.OperatorSwitch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05.StringConcatenation.cs" />

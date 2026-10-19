@@ -33,7 +33,20 @@ namespace CSLite
             //IncrementDecrement.RunMyCode();
 
             // 57:10
-            DamageCalculation.RunMyCode();
+            //DamageCalculation.RunMyCode();
+
+            // 1:01:35
+            //FoodShop.RunMyCode();
+
+            // 1:06:45
+            //OperatorIf.RunMyCode1();
+            //OperatorIf.RunMyCode2();
+
+            // 1:16:50
+            //OpeartorAndOR.RunMyCode();
+
+            // 1:23:59
+            OperatorSwitch.RunMyCode();
         }
     }
 }
