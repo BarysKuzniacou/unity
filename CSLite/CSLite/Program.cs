@@ -46,7 +46,12 @@ namespace CSLite
             //OpeartorAndOR.RunMyCode();
 
             // 1:23:59
-            OperatorSwitch.RunMyCode();
+            //OperatorSwitch.RunMyCode();
+
+            // 1:31:48
+            //EnterPassword.RunMyCode();
+
+            // 1:33:24
         }
     }
 }

@@ -29,7 +29,7 @@ namespace CSLite
             int money = 400;
             int level = 8;
 
-            if (money >= 500 && level > 9)
+            if (money >= 500 && level > 9) // ||
             {
                 Console.WriteLine("Welcome guild!");
             }
