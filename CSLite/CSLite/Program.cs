@@ -52,6 +52,18 @@ namespace CSLite
             //EnterPassword.RunMyCode();
 
             // 1:33:24
+            //CurrencyConverter.RunMyCode();
+
+            // 1:43:15
+            //WhileCycle.RunMyCode();
+
+            // 1:48:01
+            //ForCycle.RunMyCode();
+
+            // 1:55:37
+            //PasswordLimitAttempts.RunMyCode();
+
+            // 1:59:48
         }
     }
 }

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "G:\\data\\unity\\CSLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\18.passwordlimitattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\18.passwordlimitattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\17.forcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\17.forcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\16.whilecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\16.whilecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\15.currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\15.currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\13.operatorswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\13.operatorswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\11.operatorif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,19 +91,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "14.EnterPassword.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
-              "RelativeDocumentMoniker": "CSLite\\14.EnterPassword.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
-              "RelativeToolTip": "CSLite\\14.EnterPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "18.PasswordLimitAttempts.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\18.PasswordLimitAttempts.cs",
+              "RelativeDocumentMoniker": "CSLite\\18.PasswordLimitAttempts.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\18.PasswordLimitAttempts.cs*",
+              "RelativeToolTip": "CSLite\\18.PasswordLimitAttempts.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T18:40:59.383Z",
+              "WhenOpened": "2026-10-22T18:36:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "17.ForCycle.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\17.ForCycle.cs",
+              "RelativeDocumentMoniker": "CSLite\\17.ForCycle.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\17.ForCycle.cs",
+              "RelativeToolTip": "CSLite\\17.ForCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:15:57.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "16.WhileCycle.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\16.WhileCycle.cs",
+              "RelativeDocumentMoniker": "CSLite\\16.WhileCycle.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\16.WhileCycle.cs",
+              "RelativeToolTip": "CSLite\\16.WhileCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T17:45:42.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
+              "RelativeDocumentMoniker": "CSLite\\Program.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
+              "RelativeToolTip": "CSLite\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T13:14:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "13.OperatorSwitch.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\13.OperatorSwitch.cs",
               "RelativeDocumentMoniker": "CSLite\\13.OperatorSwitch.cs",
@@ -95,25 +150,35 @@
               "RelativeToolTip": "CSLite\\13.OperatorSwitch.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T18:49:56.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T18:49:56.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
-              "RelativeDocumentMoniker": "CSLite\\Program.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
-              "RelativeToolTip": "CSLite\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwDMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "14.EnterPassword.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
+              "RelativeDocumentMoniker": "CSLite\\14.EnterPassword.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
+              "RelativeToolTip": "CSLite\\14.EnterPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T13:14:32.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T18:40:59.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "15.CurrencyConverter.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\15.CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "CSLite\\15.CurrencyConverter.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\15.CurrencyConverter.cs",
+              "RelativeToolTip": "CSLite\\15.CurrencyConverter.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T17:38:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "12.OpeartorAndOR.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\12.OpeartorAndOR.cs",
               "RelativeDocumentMoniker": "CSLite\\12.OpeartorAndOR.cs",
@@ -121,12 +186,11 @@
               "RelativeToolTip": "CSLite\\12.OpeartorAndOR.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:53:47.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T17:53:47.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "11.OperatorIf.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\11.OperatorIf.cs",
               "RelativeDocumentMoniker": "CSLite\\11.OperatorIf.cs",
@@ -134,12 +198,11 @@
               "RelativeToolTip": "CSLite\\11.OperatorIf.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwCgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:33:56.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T17:33:56.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "09.DamageCalculation.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\09.DamageCalculation.cs",
               "RelativeDocumentMoniker": "CSLite\\09.DamageCalculation.cs",
@@ -151,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "10.FoodShop.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\10.FoodShop.cs",
               "RelativeDocumentMoniker": "CSLite\\10.FoodShop.cs",
@@ -163,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "04.Convertation.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\04.Convertation.cs",
               "RelativeDocumentMoniker": "CSLite\\04.Convertation.cs",
@@ -175,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "06.\u0421oncatenation.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\06.\u0421oncatenation.cs",
               "RelativeDocumentMoniker": "CSLite\\06.\u0421oncatenation.cs",
@@ -187,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "07.WorkConsole.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\07.WorkConsole.cs",
               "RelativeDocumentMoniker": "CSLite\\07.WorkConsole.cs",
@@ -199,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "08.IncrementDecrement.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\08.IncrementDecrement.cs",
               "RelativeDocumentMoniker": "CSLite\\08.IncrementDecrement.cs",
@@ -211,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "05.StringConcatenation.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\05.StringConcatenation.cs",
               "RelativeDocumentMoniker": "CSLite\\05.StringConcatenation.cs",
@@ -223,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "03.LogicOperations.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\03.LogicOperations.cs",
               "RelativeDocumentMoniker": "CSLite\\03.LogicOperations.cs",
@@ -235,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "02.VariablesData.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\02.VariablesData.cs",
               "RelativeDocumentMoniker": "CSLite\\02.VariablesData.cs",
@@ -247,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "01.HelloWorld.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\01.HelloWorld.cs",
               "RelativeDocumentMoniker": "CSLite\\01.HelloWorld.cs",
