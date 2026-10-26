@@ -57,6 +57,8 @@
     <Compile Include="15.CurrencyConverter.cs" />
     <Compile Include="17.ForCycle.cs" />
     <Compile Include="18.PasswordLimitAttempts.cs" />
+    <Compile Include="19.DepositeInterest.cs" />
+    <Compile Include="20.FightWithEnemy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05.StringConcatenation.cs" />

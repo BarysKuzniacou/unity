@@ -64,6 +64,14 @@ namespace CSLite
             //PasswordLimitAttempts.RunMyCode();
 
             // 1:59:48
+            //DepositeInterest.RunMyCode();
+
+            // 2:03:43
+            //FightWithEnemy.RunMyCode();
+
+            // 2:08:57 Random
+
+
         }
     }
 }
