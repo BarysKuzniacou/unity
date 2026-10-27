@@ -70,7 +70,9 @@ namespace CSLite
             //FightWithEnemy.RunMyCode();
 
             // 2:08:57 Random
+            //RandomClass.RunMyCode();
 
+            // 2:13:37
 
         }
     }

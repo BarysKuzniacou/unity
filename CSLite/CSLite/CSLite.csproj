@@ -65,6 +65,7 @@
     <Compile Include="02.VariablesData.cs" />
     <Compile Include="06.Сoncatenation.cs" />
     <Compile Include="16.WhileCycle.cs" />
+    <Compile Include="21.RandomClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
