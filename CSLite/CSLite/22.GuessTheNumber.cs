@@ -25,7 +25,7 @@ namespace CSLite
                 $"и меньше чем {higher}.");
             Console.WriteLine($"У вас {triesCount} попыток.");
 
-            while (triesCount > 0)
+            while (triesCount-- > 0)
             {
 
                 Console.Write("Введите число: ");
@@ -39,7 +39,10 @@ namespace CSLite
                 else
                 { 
                     Console.WriteLine($"Неверно! Это не число {userInput}.");
-                    Console.WriteLine($"У вас {triesCount} попыток.");
+                    if (triesCount > 0)
+                    {
+                        Console.WriteLine($"У вас {triesCount} попыток.");
+                    }
                 }
 
             }
