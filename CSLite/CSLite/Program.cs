@@ -73,6 +73,7 @@ namespace CSLite
             //RandomClass.RunMyCode();
 
             // 2:13:37
+            GuessTheNumber.RunMyCode();
 
         }
     }
