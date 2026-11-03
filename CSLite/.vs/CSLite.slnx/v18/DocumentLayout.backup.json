@@ -3,96 +3,12 @@
   "WorkspaceRootPath": "G:\\data\\unity\\CSLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\22.guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\22.guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\23.gladiatorfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\23.gladiatorfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\21.randomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\21.randomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\02.variablesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\02.variablesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\20.fightwithenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\20.fightwithenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\12.opeartorandor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\14.enterpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\15.currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\15.currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\16.whilecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\16.whilecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\19.depositeinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\19.depositeinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\17.forcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\17.forcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\18.passwordlimitattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\18.passwordlimitattempts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\13.operatorswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\13.operatorswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\11.operatorif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\11.operatorif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\10.foodshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\10.foodshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\04.convertation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\04.convertation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\09.damagecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\09.damagecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\08.incrementdecrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\08.incrementdecrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\07.workconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\07.workconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\06.\u0441oncatenation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\06.\u0441oncatenation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\05.stringconcatenation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\05.stringconcatenation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\03.logicoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\03.logicoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\01.helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\01.helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,281 +22,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "21.RandomClass.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\21.RandomClass.cs",
-              "RelativeDocumentMoniker": "CSLite\\21.RandomClass.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\21.RandomClass.cs",
-              "RelativeToolTip": "CSLite\\21.RandomClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T18:20:03.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "22.GuessTheNumber.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\22.GuessTheNumber.cs",
-              "RelativeDocumentMoniker": "CSLite\\22.GuessTheNumber.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\22.GuessTheNumber.cs*",
-              "RelativeToolTip": "CSLite\\22.GuessTheNumber.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T17:59:46.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "12.OpeartorAndOR.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\12.OpeartorAndOR.cs",
-              "RelativeDocumentMoniker": "CSLite\\12.OpeartorAndOR.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\12.OpeartorAndOR.cs",
-              "RelativeToolTip": "CSLite\\12.OpeartorAndOR.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:53:47.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "14.EnterPassword.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
-              "RelativeDocumentMoniker": "CSLite\\14.EnterPassword.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\14.EnterPassword.cs",
-              "RelativeToolTip": "CSLite\\14.EnterPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T18:40:59.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "15.CurrencyConverter.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\15.CurrencyConverter.cs",
-              "RelativeDocumentMoniker": "CSLite\\15.CurrencyConverter.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\15.CurrencyConverter.cs",
-              "RelativeToolTip": "CSLite\\15.CurrencyConverter.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswD8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T17:38:53.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "16.WhileCycle.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\16.WhileCycle.cs",
-              "RelativeDocumentMoniker": "CSLite\\16.WhileCycle.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\16.WhileCycle.cs",
-              "RelativeToolTip": "CSLite\\16.WhileCycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T17:45:42.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "19.DepositeInterest.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\19.DepositeInterest.cs",
-              "RelativeDocumentMoniker": "CSLite\\19.DepositeInterest.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\19.DepositeInterest.cs",
-              "RelativeToolTip": "CSLite\\19.DepositeInterest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:05:48.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "02.VariablesData.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\02.VariablesData.cs",
-              "RelativeDocumentMoniker": "CSLite\\02.VariablesData.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\02.VariablesData.cs",
-              "RelativeToolTip": "CSLite\\02.VariablesData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:23:30.095Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
               "RelativeDocumentMoniker": "CSLite\\Program.cs",
               "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
               "RelativeToolTip": "CSLite\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwE4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T13:14:32.801Z",
+              "WhenOpened": "2026-11-03T18:42:49.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20.FightWithEnemy.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\20.FightWithEnemy.cs",
-              "RelativeDocumentMoniker": "CSLite\\20.FightWithEnemy.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\20.FightWithEnemy.cs",
-              "RelativeToolTip": "CSLite\\20.FightWithEnemy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "23.GladiatorFight.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\23.GladiatorFight.cs",
+              "RelativeDocumentMoniker": "CSLite\\23.GladiatorFight.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\23.GladiatorFight.cs",
+              "RelativeToolTip": "CSLite\\23.GladiatorFight.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:46:14.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "17.ForCycle.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\17.ForCycle.cs",
-              "RelativeDocumentMoniker": "CSLite\\17.ForCycle.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\17.ForCycle.cs",
-              "RelativeToolTip": "CSLite\\17.ForCycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T18:15:57.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "18.PasswordLimitAttempts.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\18.PasswordLimitAttempts.cs",
-              "RelativeDocumentMoniker": "CSLite\\18.PasswordLimitAttempts.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\18.PasswordLimitAttempts.cs",
-              "RelativeToolTip": "CSLite\\18.PasswordLimitAttempts.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswCYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T18:36:48.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "13.OperatorSwitch.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\13.OperatorSwitch.cs",
-              "RelativeDocumentMoniker": "CSLite\\13.OperatorSwitch.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\13.OperatorSwitch.cs",
-              "RelativeToolTip": "CSLite\\13.OperatorSwitch.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T18:49:56.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "11.OperatorIf.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\11.OperatorIf.cs",
-              "RelativeDocumentMoniker": "CSLite\\11.OperatorIf.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\11.OperatorIf.cs",
-              "RelativeToolTip": "CSLite\\11.OperatorIf.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:33:56.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "09.DamageCalculation.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\09.DamageCalculation.cs",
-              "RelativeDocumentMoniker": "CSLite\\09.DamageCalculation.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\09.DamageCalculation.cs",
-              "RelativeToolTip": "CSLite\\09.DamageCalculation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:59:38.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "10.FoodShop.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\10.FoodShop.cs",
-              "RelativeDocumentMoniker": "CSLite\\10.FoodShop.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\10.FoodShop.cs",
-              "RelativeToolTip": "CSLite\\10.FoodShop.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T17:14:09.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "04.Convertation.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\04.Convertation.cs",
-              "RelativeDocumentMoniker": "CSLite\\04.Convertation.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\04.Convertation.cs",
-              "RelativeToolTip": "CSLite\\04.Convertation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T18:44:21.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "06.\u0421oncatenation.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\06.\u0421oncatenation.cs",
-              "RelativeDocumentMoniker": "CSLite\\06.\u0421oncatenation.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\06.\u0421oncatenation.cs",
-              "RelativeToolTip": "CSLite\\06.\u0421oncatenation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:43:18.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "07.WorkConsole.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\07.WorkConsole.cs",
-              "RelativeDocumentMoniker": "CSLite\\07.WorkConsole.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\07.WorkConsole.cs",
-              "RelativeToolTip": "CSLite\\07.WorkConsole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T17:22:11.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "08.IncrementDecrement.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\08.IncrementDecrement.cs",
-              "RelativeDocumentMoniker": "CSLite\\08.IncrementDecrement.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\08.IncrementDecrement.cs",
-              "RelativeToolTip": "CSLite\\08.IncrementDecrement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:45:52.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "05.StringConcatenation.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\05.StringConcatenation.cs",
-              "RelativeDocumentMoniker": "CSLite\\05.StringConcatenation.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\05.StringConcatenation.cs",
-              "RelativeToolTip": "CSLite\\05.StringConcatenation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T18:18:48.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "03.LogicOperations.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\03.LogicOperations.cs",
-              "RelativeDocumentMoniker": "CSLite\\03.LogicOperations.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\03.LogicOperations.cs",
-              "RelativeToolTip": "CSLite\\03.LogicOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:33:12.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "01.HelloWorld.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\01.HelloWorld.cs",
-              "RelativeDocumentMoniker": "CSLite\\01.HelloWorld.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\01.HelloWorld.cs",
-              "RelativeToolTip": "CSLite\\01.HelloWorld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:26:17.088Z"
+              "WhenOpened": "2026-11-03T18:42:09.352Z",
+              "EditorCaption": ""
             }
           ]
         }
