@@ -79,6 +79,9 @@ namespace CSLite
             //GladiatorFight.RunMyCode();
 
             // 2:31:36
+            //ConsoleTricks.RunMyCode();
+
+            // 2:39:21
 
         }
     }
