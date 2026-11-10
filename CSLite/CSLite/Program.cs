@@ -82,6 +82,15 @@ namespace CSLite
             //ConsoleTricks.RunMyCode();
 
             // 2:39:21
+            //BaseArray.RunMyCode();
+
+            // 2:50:59
+            //ArrayPractice01.RunMyCode();
+
+            // 2:56:04
+            //ArrayPractice02.RunMyCode();
+
+            // 3:17:04
 
         }
     }

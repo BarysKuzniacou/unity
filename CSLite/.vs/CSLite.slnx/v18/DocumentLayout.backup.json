@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "G:\\data\\unity\\CSLite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\24.consoletricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\24.consoletricks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\27.arraypractice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\27.arraypractice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\23.gladiatorfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\23.gladiatorfight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\26.arraypractice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\26.arraypractice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\25.basearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\25.basearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "24.ConsoleTricks.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\24.ConsoleTricks.cs",
-              "RelativeDocumentMoniker": "CSLite\\24.ConsoleTricks.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\24.ConsoleTricks.cs*",
-              "RelativeToolTip": "CSLite\\24.ConsoleTricks.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAkAAAAAAAAAA==",
+              "Title": "27.ArrayPractice02.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\27.ArrayPractice02.cs",
+              "RelativeDocumentMoniker": "CSLite\\27.ArrayPractice02.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\27.ArrayPractice02.cs",
+              "RelativeToolTip": "CSLite\\27.ArrayPractice02.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T19:05:49.046Z",
+              "WhenOpened": "2026-11-10T18:04:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "26.ArrayPractice01.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\26.ArrayPractice01.cs",
+              "RelativeDocumentMoniker": "CSLite\\26.ArrayPractice01.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\26.ArrayPractice01.cs",
+              "RelativeToolTip": "CSLite\\26.ArrayPractice01.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:54:35.075Z",
               "EditorCaption": ""
             },
             {
@@ -45,21 +62,23 @@
               "RelativeDocumentMoniker": "CSLite\\Program.cs",
               "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
               "RelativeToolTip": "CSLite\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAuwFEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T18:42:49.89Z"
+              "WhenOpened": "2026-11-10T17:06:26.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "23.GladiatorFight.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\23.GladiatorFight.cs",
-              "RelativeDocumentMoniker": "CSLite\\23.GladiatorFight.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\23.GladiatorFight.cs",
-              "RelativeToolTip": "CSLite\\23.GladiatorFight.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "25.BaseArray.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\25.BaseArray.cs",
+              "RelativeDocumentMoniker": "CSLite\\25.BaseArray.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\25.BaseArray.cs",
+              "RelativeToolTip": "CSLite\\25.BaseArray.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T18:42:09.352Z"
+              "WhenOpened": "2026-11-10T17:05:50.546Z",
+              "EditorCaption": ""
             }
           ]
         }
