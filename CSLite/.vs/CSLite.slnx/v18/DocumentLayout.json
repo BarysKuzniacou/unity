@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\28.arraymultidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\28.arraymultidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|g:\\data\\unity\\cslite\\cslite\\29.arraypractice03library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\29.arraypractice03library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\27.arraypractice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\27.arraypractice02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\28.arraymultidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|solutionrelative:cslite\\28.arraymultidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECF4EF50-C381-4246-AC82-193CD5FB48A7}|CSLite\\CSLite.csproj|G:\\data\\unity\\CSLite\\cslite\\26.arraypractice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,19 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "28.ArrayMultidimensional.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\28.ArrayMultidimensional.cs",
-              "RelativeDocumentMoniker": "CSLite\\28.ArrayMultidimensional.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\28.ArrayMultidimensional.cs",
-              "RelativeToolTip": "CSLite\\28.ArrayMultidimensional.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAxAAAAAAAAAA==",
+              "Title": "29.ArrayPractice03Library.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\29.ArrayPractice03Library.cs",
+              "RelativeDocumentMoniker": "CSLite\\29.ArrayPractice03Library.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\29.ArrayPractice03Library.cs",
+              "RelativeToolTip": "CSLite\\29.ArrayPractice03Library.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T18:54:53.422Z",
+              "WhenOpened": "2026-11-16T17:45:25.018Z",
               "EditorCaption": ""
             },
             {
@@ -53,14 +57,40 @@
               "RelativeDocumentMoniker": "CSLite\\27.ArrayPractice02.cs",
               "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\27.ArrayPractice02.cs",
               "RelativeToolTip": "CSLite\\27.ArrayPractice02.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwC0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T18:04:40.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
+              "RelativeDocumentMoniker": "CSLite\\Program.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
+              "RelativeToolTip": "CSLite\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:06:26.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "28.ArrayMultidimensional.cs",
+              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\28.ArrayMultidimensional.cs",
+              "RelativeDocumentMoniker": "CSLite\\28.ArrayMultidimensional.cs",
+              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\28.ArrayMultidimensional.cs",
+              "RelativeToolTip": "CSLite\\28.ArrayMultidimensional.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T18:54:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "26.ArrayPractice01.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\26.ArrayPractice01.cs",
               "RelativeDocumentMoniker": "CSLite\\26.ArrayPractice01.cs",
@@ -72,20 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
-              "RelativeDocumentMoniker": "CSLite\\Program.cs",
-              "ToolTip": "G:\\data\\unity\\CSLite\\CSLite\\Program.cs",
-              "RelativeToolTip": "CSLite\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAgwF8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T17:06:26.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "25.BaseArray.cs",
               "DocumentMoniker": "G:\\data\\unity\\CSLite\\CSLite\\25.BaseArray.cs",
               "RelativeDocumentMoniker": "CSLite\\25.BaseArray.cs",

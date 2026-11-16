@@ -66,6 +66,7 @@
     <Compile Include="26.ArrayPractice01.cs" />
     <Compile Include="27.ArrayPractice02.cs" />
     <Compile Include="28.ArrayMultidimensional.cs" />
+    <Compile Include="29.ArrayPractice03Library.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="05.StringConcatenation.cs" />
